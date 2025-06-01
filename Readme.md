@@ -1,5 +1,5 @@
 # backend project 
-# backend with javascript 
+# backend with Node.js
 
 This project is a comprehensive backend system for a video hosting website, similar to YouTube. It includes a variety of features like user authentication, video uploading, liking/disliking videos, commenting, subscribing, and more.
 
